@@ -1,0 +1,42 @@
+{
+  "USD": "USD",
+  "Order Number": "Order Number",
+  "Do you want to complete it?": "Do you want to complete it?",
+  "Order": "Order",
+  "Table": "Table",
+  "Processing": "Processing",
+  "Waiting": "Waiting",
+  "Completed": "Completed",
+  "Idle": "Idle",
+  "Started": "Started",
+  "Pending": "Pending",
+  "OrderDetailModal": {
+    "Order no": "Order no",
+    "Status": "Status",
+    "Created At": "Created At",
+    "Delete Order": "Delete Order",
+    "Change Status Back to": "Change Status Back to",
+    "Change Status to": "Change Status to",
+    "Complete Order": "Complete Order",
+    "Order Detail": "Order Detail",
+    "Total": "Total"
+  },
+  "TableDetailModal": {
+    "Table no": "Table no",
+    "Status": "Status",
+    "Change Status Back to": "Change Status Back to",
+    "Change Status to": "Change Status to",
+    "Reset Table": "Reset Table",
+    "Table Detail": "Table Detail",
+    "Total": "Total"
+  },
+  "API": {
+    "USD": "USD",
+    "Processing": "Processing",
+    "Waiting": "Waiting",
+    "Completed": "Completed",
+    "Idle": "Idle",
+    "Started": "Started",
+    "Pending": "Pending"
+  }
+}
